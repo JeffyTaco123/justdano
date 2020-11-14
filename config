@@ -1,0 +1,8 @@
+module.exports = {
+    token: 'NzcyNjM5NzM1Mjk4MTI5OTUw.X59m0w.xqIl3I68uP6TAs9mKpR086jXomw', // https://discordapp.com/developers/applications/ID/bot
+    mongodbUrl: 'https://cloud.mongodb.com/v2/5faf8cc48a5c6141175ea399#clusters/atlasSearch/Cluster0', // Mongodb connection url.
+    id: '772639735298129950', // https://discordapp.com/developers/applications/ID/information
+    clientSecret: 'o11aplexsPKHZbqYEG0krnesoH79n0AN', // https://discordapp.com/developers/applications/ID/information
+    domain: 'http://justadano.tk/',
+    port: 8080
+};
